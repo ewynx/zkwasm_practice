@@ -7,6 +7,7 @@ Practice projects in:
 - Rust
 
 AssemblyScript example from https://github.com/DelphinusLab/zkWasm-AssemblyScript-Demo
+
 Rust example from https://github.com/xgaozoyoe/zkWasm-Rust-Demo
 
 # Get started
